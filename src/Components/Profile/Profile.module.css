@@ -1,0 +1,11 @@
+.app {
+    display: grid;
+    margin: 0 auto;
+    grid-gap: 5px;
+    padding-top: 10px;
+
+    width: 1000px;
+
+    grid-template-columns: 3fr 3fr 6fr;
+}
+

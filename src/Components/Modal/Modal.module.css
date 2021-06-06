@@ -1,0 +1,9 @@
+.ava {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-bottom: 100px;
+    position: relative;
+    top: 12px;
+    right: 5px;
+}

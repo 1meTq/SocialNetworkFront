@@ -1,0 +1,10 @@
+.friendAva img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%
+}
+
+.friendDescription {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}

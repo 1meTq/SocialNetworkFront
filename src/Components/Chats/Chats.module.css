@@ -1,0 +1,10 @@
+.postAva img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%
+}
+
+.chat {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
